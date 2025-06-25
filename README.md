@@ -15,9 +15,9 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 📱 Fully responsive design with gradient background and modern UI
 
 📸 Screenshots
-![Screenshot 1](ToDoList WebApp/images/toDoimg1.png)
-![Screenshot 2](ToDoList WebApp/images/toDoimg2.png)
-![Screenshot 3](ToDoList WebApp/images/toDoimg3.png)
+![Screenshot 1](ToDoListWebApp/images/toDoimg1.png)
+![Screenshot 2](ToDoListWebApp/images/toDoimg2.png)
+![Screenshot 3](ToDoListWebApp/images/toDoimg3.png)
 
 
 🛠️ Built With
